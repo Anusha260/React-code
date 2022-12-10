@@ -5,7 +5,7 @@ import Greet from './components/Greet'
 class App extends component {
     render() {
         return ( 
-            <hii></hii>
+            <h1>hi</h1>
 
         )
     }
